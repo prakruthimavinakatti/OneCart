@@ -8,4 +8,4 @@ Main Benefits:
 2. Schedule items orders
 3. Create items list for specific categories especially groceries, which can be used to buy every month using the list.
 4. Track orders and contact drivers individually for each store order.
-5. MAke on etime payment for all orders. 
+5. Make one time payment for all orders. 
