@@ -5,7 +5,7 @@ OneCart is a revolutionary online shopping platform that transforms the way you 
 
 Main Benefits:
 1. Order items from multiple stores based on any specific event like birthday or have a custom order.
-2. Schedule items orders
+2. Schedule item orders
 3. Create items list for specific categories especially groceries, which can be used to buy every month using the list.
 4. Track orders and contact drivers individually for each store order.
 5. Make one time payment for all orders. 
